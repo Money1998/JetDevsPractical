@@ -1,0 +1,22 @@
+import 'dart:ui';
+
+const Color appBarColor = Color(0xfff9f9f9);
+const Color iconThemeColor = Color(0xff222222);
+const Color colorPrimary = Color(0xff295093);
+const darkBlue = Color(0xff00356b);
+const redColor = Color(0xffde3030);
+const greenColor = Color(0xff1f9313);
+const lightBlueS = Color(0xff2b549a);
+const lightBlue = Color(0xff3b6abb);
+const colorBg = Color(0xFFF0F7F9);
+const lightGrey = Color(0xffa0a8b4);
+const colorTextFiled = Color(0x80a0a8b4);
+const backgroundColor = Color(0x22a0a8b4);
+const colorGrey = Color(0xff5f6670);
+const cardColor = Color(0x67f8f8fa);
+const black = Color(0xff000000);
+const kPrimaryColor = Color(0x9E030321);
+const white = Color(0xffffffff);
+const Color toasterSuccessColor = Color(0x99198754);
+const Color toasterAlertColor = Color(0xc0dc3545);
+const Color statusColor = Color(0xc0ecb103);
