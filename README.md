@@ -2,6 +2,21 @@
 
 # My Profile App
 
+## Note
+
+JetDevs Practical APK => https://drive.google.com/file/d/1crSfCkScZCbr_TXPTu7H5ph2cEisQJyG/view?usp=sharing
+
+Here is the demo video => which I mentioned below two looms video link
+
+Loom Video 1 => https://www.loom.com/share/0937500eab664538a79ec64caaf52289?sid=8acd337e-4c68-4077-9bd0-bb80bd856e30
+
+Loom Video 2 => https://www.loom.com/share/554ab507a54e463db121e9b761d0730d?sid=23823be8-58be-4920-91c0-5560719206cb
+
+If you have any questions or need further assistance, please feel free to ask in the comments
+
+Thank you for watching, and have a great day!
+
+
 ## Overview
 
 The "My Profile" app is a cross-platform mobile application for Android and iOS that allows users to manage and display their personal profile information. This app provides a user-friendly interface for logging in, viewing profile details, and editing profile information. This README serves as a guide to understand the app's features and how to get started.
